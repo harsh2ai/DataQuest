@@ -1,3 +1,2 @@
-Name: Manavpreet Singh
-College: HKBK college of engineering
-Place: Bangalore
+- Manavpreet Singh, HKBK college of engineering, Bangalore
+
