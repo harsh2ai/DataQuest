@@ -27,5 +27,5 @@ Python Fundamentals
 - [ ] Feel free to add more resources under this section. It can be link to any youtube channel or ant e-learning app or website.
 
 
-# Contribututors
-- Add you name, college, place of residence and github profile link to **CONTRIBUTERS.md** so that people can easily find you.
+## Contribututors
+- Add you name, college, place of residence and github profile link to **[CONTRIBUTERS.md](https://github.com/hr21/DataQuest)** so that people can easily find you.
