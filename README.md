@@ -4,7 +4,7 @@ The git repo for every AI and python enthusiast
 ## welcome AI enthusiasts
 
 - This Repo is still in a very naive stage so your contribution might be helpful
-- Also since this is the month of October so don't forget to get started with [Hacktoberfest](https://www.youtube.com/watch?v=FTr3n7uBIuE&t=1782s) and [here](https://www.youtube.com/watch?v=cAICT4Al5Ow&t=4s)
+- Also since this is the month of October so don't forget to get started with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 
 
 Contribution Guidenlines:
 - [ ] Add python files for begginers don't forget to comment the lines for newbies to understand the code
