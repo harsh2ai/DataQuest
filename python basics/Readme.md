@@ -1,4 +1,4 @@
-#Python basics
+# Python basics
 
 - You can add the following files in this repo
 - [ ] Perform basic operations in a single file
