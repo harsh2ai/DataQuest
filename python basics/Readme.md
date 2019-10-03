@@ -28,4 +28,4 @@ Python Fundamentals
 
 
 ## Contribututors
-- Add you name, college, place of residence and github profile link to **[CONTRIBUTERS.md](https://github.com/hr21/DataQuest)** so that people can easily find you.
+- Add you name, college, place of residence and github profile link to **[CONTRIBUTERS.md](https://github.com/hr21/DataQuest/blob/master/CONTRIBUTERS.md)** so that people can easily find you.
