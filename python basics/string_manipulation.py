@@ -65,8 +65,7 @@ print('Position 7 to end:', string[7:])
 
 #Returns from character in position 3 until character in position 5.
 print('Position 3 to 5:', string[3:6])
-#Just like the first example, it uses :6 but doesn't
-#include position 6 in the output
+#Just like the first example, it uses :6 but doesn't include position 6 in the output
 
 #Returns from character in position 3 until character in position 9, picking a character every 2 characters.
 print('Position 3 to 8, every 2 characters:', string[3:9:2])
