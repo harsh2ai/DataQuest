@@ -81,7 +81,8 @@ print('Reversed:', string[::-1])
 
 #Returns the position of a set of characters in a string
 print('Position of "world!":', string.find('world!'))
-#Note it returns only the position of the first letter of what you're searching for.
+#Note it returns only the position of the first character of what you're searching for.
+#If there is more than one ocurrance of what you're searching for, it returns the first.
 
 #If such set of characters is not found, it'll return -1
 print('Position of "Hola!":', string.find('Hola!'))
