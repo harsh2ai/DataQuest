@@ -1,5 +1,5 @@
 #String manipulation
-#Strings are "a list of characeters", and here you can learn a bit of how to manipulate them.
+#Strings are "a list of characters", and here you can learn a bit of how to manipulate them.
 
 string = "hello, world!"
 
@@ -65,7 +65,7 @@ print('Position 7 to end:', string[7:])
 
 #Returns from character in position 3 until character in position 5.
 print('Position 3 to 5:', string[3:6])
-#Just like the first example, it uses :6 but doesn't include position 6 in the output
+#Just like the first example, it uses :6 but doesn't include position 6 in the output.
 
 #Returns from character in position 3 until character in position 9, picking a character every 2 characters.
 print('Position 3 to 8, every 2 characters:', string[3:9:2])
@@ -80,5 +80,5 @@ print('Position of "world!":', string.find('world!'))
 #Note it returns only the position of the first character of what you're searching for.
 #If there is more than one ocurrance of what you're searching for, it returns the first.
 
-#If such set of characters is not found, it returns -1
+#If such set of characters is not found, it returns -1.
 print('Position of "Hola!":', string.find('Hola!'))
