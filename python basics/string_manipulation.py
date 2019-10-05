@@ -1,10 +1,5 @@
 #String manipulation
-<<<<<<< HEAD
 #Strings are "a list of characters", and here you can learn a bit of how to manipulate them.
-=======
-#Strings are "a list of characeters", and here you can learn a bit of how to manipulate them.
->>>>>>> Fixed things for easier understanding.
-
 string = "hello, world!"
 
 #Capitalizes the first letter of the string.
@@ -27,14 +22,6 @@ string = 'HELLO, WORLD!'
 print('Lowercase:', string.lower())
 
 #Now with extra spaces in the string.
-<<<<<<< HEAD
-string = ' hello, world! '
-
-#Removes the extra spaces from left and right.
-print('Strip:', string.strip())
-
-=======
->>>>>>> Fixed things for easier understanding.
 string = ' hello, world! '
 
 #Removes the extra spaces from left and right.
@@ -46,14 +33,6 @@ print('Right strip:', string.rstrip())
 #Removes the extra spaces from the left.
 print('Left strip:', string.lstrip())
 
-<<<<<<< HEAD
-#Splits the current string into a list of strings.
-#In this case, every list element is separated from another when there's a comma in the original string.
-#Removes the extra spaces both from left and right.
-print('Strip:', string.strip())
-
-=======
->>>>>>> Fixed things for easier understanding.
 #Splits the current string into a list of strings.
 #In this case, every list element is separated from another when there's a comma in the original string.
 #If no argument is given, it splits where it finds a blank space.
@@ -85,7 +64,7 @@ print('Position 7 to end:', string[7:])
 
 #Returns from character in position 3 until character in position 5.
 print('Position 3 to 5:', string[3:6])
-#Just like the first example, it uses :6 but doesn't include position 6 in the output
+#Just like the first example, it uses :6 but doesn't include position 6 in the output.
 
 #Returns from character in position 3 until character in position 9, picking a character every 2 characters.
 print('Position 3 to 8, every 2 characters:', string[3:9:2])
@@ -100,5 +79,5 @@ print('Position of "world!":', string.find('world!'))
 #Note it returns only the position of the first character of what you're searching for.
 #If there is more than one ocurrance of what you're searching for, it returns the first.
 
-#If such set of characters is not found, it'll return -1
+#If such set of characters is not found, it returns -1.
 print('Position of "Hola!":', string.find('Hola!'))
