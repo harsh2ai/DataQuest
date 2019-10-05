@@ -6,4 +6,8 @@ The process of learning begins with observations or data, such as examples, dire
 
 # Contribututors
 - georgioupanayiotis
+
 - srijanjha
+
+- Manavpreet Singh (https://github.com/ManavpreetSingh)
+
