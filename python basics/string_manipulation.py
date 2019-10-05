@@ -41,7 +41,7 @@ print(string_split)
 print('Join:', ''.join(string_split))
 
 #Originally, join inserts a set of characters for every character in a string.
-#You can use it to put - after every characters, for example.
+#You can use it to put - after every character, for example.
 print('Separate characters:', '-'.join(string))
 
 #Or to separate strings from a list of strings when joining them.
