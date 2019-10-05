@@ -1,0 +1,27 @@
+Data Science Learning Curve
+1. Khan Academy (https://www.khanacademy.org/) – Linear Algebra, Statistics and Probability, Calculus, Multivariable
+Calculus
+2. Lynda (https://www.lynda.com) - Statistics Foundation -1 ,2 & 3
+3. Python Packages (https://pypi.org) – Pandas, Numpy, Matplotlib, Plotly, Scipy, Scikit-learn, TensorFlow,
+Keras, NLTK, Gensim, Scrapy, statsmodels,
+4. Caltech (https://work.caltech.edu/telecourse.html) – Learning from Data
+5. Microsoft (https://www.edx.org/school/microsoft) – Data Science – Professional Program Track
+6. Coursera (https://coursera.org) – Andrew NG and Deep Learning [Stanford Courses]
+7. Pluralsight (https://www.pluralsight.com) – Data Mining and Advanced Analytics
+8. Tableau (https://www.tableau.com/learn/training) – Data Visualization
+9.Dataquest (https://www.dataquest.io/) - Data Science Courses
+10. Fast.ai (https://www.fast.ai/) – Complete reference for Deep Learning
+11.Cognitive Classes (https://cognitiveclass.ai) – Introduction to Data Science, Text Analysis and Big Data
+Fundamentals
+12.Udemy (https://udemy.com) – Machine-learning A to Z
+13.Kaggle (kaggle.com) – Hands-on practices, Learn basic Data Science Fundamentals from Learn
+Section
+14.Datacamp (https://datacamp.com) – Data Scientist track
+
+Reference Blogs:
+1. Analytics Vidhya (analyticsvidhya.com)
+2. Machine Learning Mastery (https://machinelearningmastery.com)
+3. Towards Data Science (https://towardsdatascience.com)
+4. Safari Books (https://www.oreilly.com/)
+5. Kdnuggets (https://www.kdnuggets.com/)
+
