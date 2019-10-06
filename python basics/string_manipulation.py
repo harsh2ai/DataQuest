@@ -1,6 +1,5 @@
 #String manipulation
 #Strings are "a list of characters", and here you can learn a bit of how to manipulate them.
-
 string = "hello, world!"
 
 #Capitalizes the first letter of the string.
