@@ -1,9 +1,5 @@
 # Machine Learning basics
 
-# Contribututors
-- georgioupanayiotis
-- Manavpreet Singh (https://github.com/ManavpreetSingh)
-
 
 # Recommended Courses for Machine Learning 
 (From Beginner to Advanced !)
@@ -16,3 +12,11 @@
 https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229
 
 
+
+
+- [Learning Path](https://www.analyticsvidhya.com/learning-path-learn-machine-learning/)
+
+# Contribututors
+- georgioupanayiotis
+- CheshtaK
+- Manavpreet Singh (https://github.com/ManavpreetSingh)
