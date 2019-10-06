@@ -23,6 +23,7 @@ Python Fundamentals
 - [Python by freeCodeCamp](https://www.youtube.com/watch?v=rfscVS0vtbw)
 - [Python for Everybody](https://www.youtube.com/watch?v=8DvywoWv6fI )
 - [Python Tutorials by Corey Schafer](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+- [Learn Python by Nina Zakharenko](https://www.learnpython.dev/)
 
 - [Learning to program with Python 3 by sentdex](https://www.youtube.com/watch?v=eXBD2bB9-RA&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
 
