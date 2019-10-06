@@ -1,10 +1,10 @@
 # Python basics
 
-- You can add the following files in this repo
+- You can add the following files in this repo.
 - [ ] Perform basic operations in a single file
 - [ ] Perform Slicing with ample examples
 - [ ] Display examples of various types of loops
-- [ ]  	Python Main Function with Examples: Understand __main__
+- [ ] Python Main Function with Examples: Understand __main__
 - [ ]	Python Variables: Declare, Concatenate, Global & Local
 Python Data Structure
 - [ ] 	Python Strings: Replace, Join, Split, Reverse, Uppercase & Lowercr̥ase
@@ -17,10 +17,24 @@ Python Fundamentals
 - [ ] 	Python For & While Loops: Enumerate, Break, Continue Statement
 - [ ] 	Python OOPs: Class, Object, Inheritance and Constructor with Example
 
-# Resources
-- [ ] Add resources under this Section it can be link to various youtube channels and e-learning Apps and Sites
+## Resources
+
+##### Free Resources
+- [Python by freeCodeCamp](https://www.youtube.com/watch?v=rfscVS0vtbw)
+- [Python for Everybody](https://www.youtube.com/watch?v=8DvywoWv6fI )
+- [Python Tutorials by Corey Schafer](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+- [Learn Python by Nina Zakharenko](https://www.learnpython.dev/)
+
+- [Learning to program with Python 3 by sentdex](https://www.youtube.com/watch?v=eXBD2bB9-RA&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
+
+  [PythonProgramming.net](https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+  [Python Programming by ProgrammingKnowledge](https://www.youtube.com/watch?v=41qgdwd3zAg&list=PLS1QulWo1RIaJECMeUT4LFwJ-ghgoSH6n)
+  [Python for beginners in just 6 hours](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+  [Learn Python](https://www.learnpython.org/)
 
 
-# Contribututors
-- Intialize a readme with name contributors.md in this directory and add you name, college,place of residence and github profile link
-So people can easily find you
+- [ ] Feel free to add more resources under this section. It can be link to any youtube channel or any e-learning app or website.
+
+
+## Contribututors
+- Add you name, college, place of residence and github profile link to **[CONTRIBUTERS.md](https://github.com/hr21/DataQuest/blob/master/CONTRIBUTERS.md)** so that people can easily find you.
