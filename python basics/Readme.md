@@ -28,6 +28,12 @@ Python Fundamentals
   [Python Programming by ProgrammingKnowledge](https://www.youtube.com/watch?v=41qgdwd3zAg&list=PLS1QulWo1RIaJECMeUT4LFwJ-ghgoSH6n)
   [Python for beginners in just 6 hours](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
   [Learn Python](https://www.learnpython.org/)
+- [Learning to program with Python 3 by sentdex](https://www.youtube.com/watch?v=eXBD2bB9-RA&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
+
+  [PythonProgramming.net](https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+  [Python Programming by ProgrammingKnowledge](https://www.youtube.com/watch?v=41qgdwd3zAg&list=PLS1QulWo1RIaJECMeUT4LFwJ-ghgoSH6n)
+  [Python for beginners in just 6 hours](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+  [Learn Python](https://www.learnpython.org/)
 - [ ] Feel free to add more resources under this section. It can be link to any youtube channel or any e-learning app or website.
 
 
