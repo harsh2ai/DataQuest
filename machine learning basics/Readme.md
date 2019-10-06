@@ -4,6 +4,7 @@
 - georgioupanayiotis
 - Manavpreet Singh (https://github.com/ManavpreetSingh)
 
+
 # Recommended Courses for Machine Learning 
 (From Beginner to Advanced !)
 
@@ -13,3 +14,5 @@
 
 - [Udacity] Introduction to Machine Learning 
 https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229
+
+
