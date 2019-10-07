@@ -3,3 +3,4 @@
 # Contribututors
 - georgioupanayiotis
 - Manavpreet Singh (https://github.com/ManavpreetSingh)
+- victox5
