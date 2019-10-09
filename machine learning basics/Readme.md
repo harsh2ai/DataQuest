@@ -17,6 +17,7 @@ https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229
 - [Learning Path](https://www.analyticsvidhya.com/learning-path-learn-machine-learning/)
 
 # Contribututors
+- Lakshmikanth Rajamani (https://twitter.com/krlakshmikanth)
 - georgioupanayiotis
 - CheshtaK
 - Manavpreet Singh (https://github.com/ManavpreetSingh)
