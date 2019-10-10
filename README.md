@@ -24,3 +24,5 @@ if you have a green signal then go ahead in doing it.
  - [Stanford's Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
  - [Stanford's Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
  - [Coursera Deep Learning.AI](https://www.coursera.org/specializations/deep-learning)
+ - [Fast.ai course v3](https://course.fast.ai/index.html)
+ 
