@@ -26,4 +26,4 @@ if you have a green signal then go ahead in doing it.
  - [Coursera Deep Learning.AI](https://www.coursera.org/specializations/deep-learning)
  - [Fast.ai course v3](https://course.fast.ai/index.html)
  
-- [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-models)
+- [Sequence Models1](https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-models)
