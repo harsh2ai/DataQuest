@@ -1,0 +1,5 @@
+import math
+x = float(input("Input x value"))
+y = float(input("Input y value"))
+print ("Cartesian: (%.1f,%.1f)" %(x,y))
+print ("Polar: r = %.1f" %math.sqrt(math.pow(x,2) + math.pow(y,2)) + ", Theta = %.1f" %math.degrees(math.atan(y/x)) + " degrees")
