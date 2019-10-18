@@ -1,0 +1,10 @@
+def parse_url_string(url):
+    params = url.split('?')[1].split('&')
+    car = {}
+    for param in params:
+        car[param.split('=')[0]] = param.split('=')[1]
+    return car
+    
+detailx = parse_url_string('domain.com?model=x&color=black&package=signature&interior=brown&wheels=alloy')
+
+print(detailx)
