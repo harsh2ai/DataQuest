@@ -104,7 +104,7 @@ Google's guide to Machine Learning
 Link: https://lnkd.in/fr5StSH
 
 
-# Contribututors
+# Contributors
 - Lakshmikanth Rajamani (https://twitter.com/krlakshmikanth)
 - georgioupanayiotis
 - CheshtaK
