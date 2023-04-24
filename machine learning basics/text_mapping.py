@@ -1,7 +1,7 @@
 #########################################
 ###### Sequence builder for DL NLP ######
 #########################################
-
+# Git User: victox5
 
 # Input text needs to be preprocessed and in string format.
 
